@@ -1,5 +1,12 @@
 # 💳 Credit Card Fraud Detection
 
+## 🚀 Live Demo
+Try it: https://credit-card-fraud-detection-ml-o2bt.onrender.com
+
+## Deployment
+Served via a FastAPI microservice wrapping the trained Random Forest model
+(98.6% ROC-AUC). See `app.py` / `train_model.py`. Deployed on Render.
+
 > A machine learning project that detects fraudulent credit card transactions using both Supervised and Semi-Supervised learning models, following the CRISP-DM methodology.
 
 ---
